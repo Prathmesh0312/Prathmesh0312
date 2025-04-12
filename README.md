@@ -30,6 +30,8 @@ I am a passionate Data Analyst skilled in SQL, Python, Machine Learning, and Dat
 - Predicting Daily S&P 500 Movements | ML, Python, Tableau
 - Smart Home Automation System | SQL, KPI Tracking, Data Integrity 95%+
 - Women’s World Cup Analysis | Tableau, Python
+- Health checkup Data Preprocessing and cleaning | EDA, Python
+- Forcastng July's energy peaks in North Carolina | R, Matplotlib, ggplot
 
 ---
 
