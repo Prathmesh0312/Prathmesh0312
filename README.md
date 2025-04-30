@@ -17,12 +17,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Prathmesh0312&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-## About Me
-I am a passionate Data Analyst skilled in SQL, Python, Machine Learning, and Data Visualization. Experienced in building ETL pipelines, predictive models, and KPI dashboards to drive data-driven decision-making. I enjoy solving real-world business problems through data.
-
 ---
 
 ## Work Experience
