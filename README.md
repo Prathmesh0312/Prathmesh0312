@@ -3,8 +3,10 @@
 🚀 Data Engineering & Analytics Enthusiast  
 🎓 Master’s in Information Systems | Syracuse University | May 2025  
 📍 Syracuse, NY  
-
 ---
+
+## About Me
+I am a passionate Data Analyst skilled in SQL, Python, Machine Learning, and Data Visualization. Experienced in building ETL pipelines, predictive models, and KPI dashboards to drive data-driven decision-making. I enjoy solving real-world business problems through data.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh--pawar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamprathmeshpawar3@gmail.com) 
