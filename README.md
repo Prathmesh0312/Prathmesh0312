@@ -1,5 +1,9 @@
 # Hi, I'm Prathmesh Pawar 👋  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=24&duration=2000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Hey+There%2C+I'm+Bhavesh!;Passionate+about+Data%2C+AI+%26+ML;Turning+Raw+Data+into+Smart+Decisions;Building+AI-Powered+Solutions;Making+Numbers+Tell+Stories!" />
+</p>
+
 🚀 Data Engineering & Analytics Enthusiast  
 🎓 Master’s in Information Systems | Syracuse University | May 2025  
 📍 Syracuse, NY  
