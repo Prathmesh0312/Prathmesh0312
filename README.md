@@ -5,11 +5,11 @@
 </p>
 
 🚀 Data Science Enthusiast with 2+ years of professional experience
-🎓 Master’s in Information Systems | Syracuse University | May 2025  
-📍 Syracuse, NY  
----
 
-## About Me
+🎓 Master’s in Information Systems | Syracuse University | May 2025  
+
+📍 Syracuse, NY  
+
 I am a passionate Data Analyst skilled in SQL, Python, Machine Learning, and Data Visualization. Experienced in building ETL pipelines, predictive models, and KPI dashboards to drive data-driven decision-making. I enjoy solving real-world business problems through data.
 
 ## 🌐 Socials:
