@@ -1,4 +1,4 @@
-# Hi, I'm Prathmesh Pawar 👋  
+# Hi, I'm Prathmesh Pawar  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=24&duration=2000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Hey+There%2C+I'm+Prathmesh!;Passionate+about+Data%2C+AI+%26+ML;Turning+Raw+Data+into+Smart+Decisions;Building+AI-Powered+Solutions;Making+Numbers+Tell+Stories!" />
@@ -8,11 +8,11 @@
 
  Master’s in Information Systems | Syracuse University | May 2025  
 
-📍 Syracuse, NY  
+ Syracuse, NY  
 
 I am a passionate Data Analyst skilled in SQL, Python, Machine Learning, and Data Visualization. Experienced in building ETL pipelines, predictive models, and KPI dashboards to drive data-driven decision-making. I enjoy solving real-world business problems through data.
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh--pawar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamprathmeshpawar3@gmail.com) [Portfolio](https://www.datascienceportfol.io/prathmeshpawar) | [GitHub](https://github.com/Prathmesh0312)
 
 # 💻 Tech Stack:
