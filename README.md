@@ -31,27 +31,29 @@ I am a passionate Data Analyst skilled in SQL, Python, Machine Learning, and Dat
 - Built ML model to predict rotor failures, reducing maintenance cost by 13%.
 - Created AI use-case database across 9+ industries for future research insights.
 
-### Programmer Data Analyst | Cognizant
-- Conducted ML analysis on 6500+ insurance records, improving accuracy to 86%.
-- Developed 30+ Tableau dashboards, driving strategic decision-making by 15%.
-- Automated data cleaning processesare  improving deployment efficiency by 40%.
 
+### Research Data Analyst| Syracuse University
+- Analyzed U.S. election datasets and SU sports data using Pandas, Polars, Pure Python
+- Used LLMs to generate and refine workflows for EDA
+- Generated Visual dashboards with Matplotlib and Tableau to surface patterns
+  
 ---
 
 ## Projects
 
+- Gen AI Web Agent Development from scratch | GenAI, LLMs, google-adk, Streamlit, Python
 - Data Warehouse for Fudge Mart | ETL, Snowflake, DBT
 - Predicting Daily S&P 500 Movements | ML, Python, Tableau
 - Smart Home Automation System | SQL, KPI Tracking, Data Integrity 95%+
 - Women’s World Cup Analysis | Tableau, Python
 - Health checkup Data Preprocessing and cleaning | EDA, Python
-- Forcastng July's energy peaks in North Carolina | R, Matplotlib, ggplot
+- Forecasting July's energy peaks in North Carolina | R, Matplotlib, ggplot
 
 ---
 
 ## Technical Skills
 
-Python | SQL | Snowflake | MySQL | DBT | Databricks | Tableau | Power BI | Looker | AWS | Git | R | Data Visualization | ETL Pipelines | KPI Reporting  
+Python | GenAI | LLMs | SQL | Snowflake | MySQL | DBT | Databricks | Tableau | Power BI | Looker | AWS | Git | R | Data Visualization | ETL Pipelines | KPI Reporting  
 
 ---
 
