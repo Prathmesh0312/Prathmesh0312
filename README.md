@@ -4,13 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=24&duration=2000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Hey+There%2C+I'm+Prathmesh!;Passionate+about+Data%2C+AI+%26+ML;Turning+Raw+Data+into+Smart+Decisions;Building+AI-Powered+Solutions;Making+Numbers+Tell+Stories!" />
 </p>
 
- Data Science Enthusiast with 2+ years of professional experience
 
  Master’s in Information Systems | Syracuse University | May 2025  
 
  Syracuse, NY  
 
-I am a passionate Data Analyst skilled in SQL, Python, Machine Learning, and Data Visualization. Experienced in building ETL pipelines, predictive models, and KPI dashboards to drive data-driven decision-making. I enjoy solving real-world business problems through data.
+I am a passionate Financial Analyst skilled in SQL, Advanced Excel, Financial Modeling, Budgeting & forecasting, Python, Machine Learning, and Data Visualization. Experienced in budgeting, predictive models, and KPI dashboards to drive data-driven decision-making. I enjoy solving real-world business problems through data.
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathmesh--pawar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamprathmeshpawar3@gmail.com) [Portfolio](https://www.datascienceportfol.io/prathmeshpawar) | [GitHub](https://github.com/Prathmesh0312)
@@ -23,20 +22,6 @@ I am a passionate Data Analyst skilled in SQL, Python, Machine Learning, and Dat
 ---
 [![](https://visitcount.itsvg.in/api?id=Prathmesh0312&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
-## Work Experience
-
-### Data Analyst Intern | iConsult Collaborative
-- Built ML model to predict rotor failures, reducing maintenance cost by 13%.
-- Created AI use-case database across 9+ industries for future research insights.
-
-
-### Research Data Analyst| Syracuse University
-- Analyzed U.S. election datasets and SU sports data using Pandas, Polars, Pure Python
-- Used LLMs to generate and refine workflows for EDA
-- Generated Visual dashboards with Matplotlib and Tableau to surface patterns
-  
 ---
 
 ## Projects
@@ -53,7 +38,7 @@ I am a passionate Data Analyst skilled in SQL, Python, Machine Learning, and Dat
 
 ## Technical Skills
 
-Python | GenAI | LLMs | SQL | Snowflake | MySQL | DBT | Databricks | Tableau | Power BI | Looker | AWS | Git | R | Data Visualization | ETL Pipelines | KPI Reporting  
+Python | Excel Data Analysis | Budgeting & forecasting | SQL | Snowflake | MySQL | DBT | Databricks | Tableau | Power BI | Looker | AWS | Git | R | Data Visualization | ETL Pipelines | KPI Reporting  
 
 ---
 
