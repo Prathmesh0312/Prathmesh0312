@@ -29,13 +29,6 @@ I am a passionate Financial Analyst skilled in SQL, Advanced Excel, Financial Mo
 - Health checkup Data Preprocessing and cleaning | EDA, Python
 - Forecasting July's energy peaks in North Carolina | R, Matplotlib, ggplot
 
----
-
-## Technical Skills
-
-Python | Excel Data Analysis | Budgeting & forecasting | SQL | Snowflake | MySQL | DBT | Databricks | Tableau | Power BI | Looker | AWS | Git | R | Data Visualization | ETL Pipelines | KPI Reporting  
-
----
 
 
 <!--
